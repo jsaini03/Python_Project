@@ -94,6 +94,11 @@ plt.xlabel('Number of Jobs in US')
 plt.ylabel('')
 plt.show()
 ```
+### Results
+![count_of_jobs](https://github.com/jsaini03/Python_Project/blob/5757cf1397931c2727fd327776f31a09edc757f5/count_of_jobs.png)
+
+
+![Number of Jobs Based on Title](https://github.com/jsaini03/Python_Project/blob/5757cf1397931c2727fd327776f31a09edc757f5/count_of_jobs_per_title.png)
 
 ##  What are the **most in-demand skills** for the top 3 most popular data roles? 
 To find the most demanded skills for the top 3 most popular data roles. I filtered out those positions by which ones were the most popular, and got the top 5 skills for these top 3 roles. This query highlights the most popular job titles and their top skills, showing which skills I should pay attention to depending on the role I'm targeting. 
@@ -121,7 +126,7 @@ plt.show()
 
 ```
 ### Results
-
+![Top skills in Demand](https://github.com/jsaini03/Python_Project/blob/5757cf1397931c2727fd327776f31a09edc757f5/count_of_skills.png)
 
 ## How well do **jobs and skills pay** for Data Analysts? 
 To identify the highest-paying roles and skills, I only got jobs in the United States and looked at their median salary. But first I looked at the salary distributions of common data jobs like Data Scientist, Data Engineer, and Data Analyst, to get an idea of which jobs are paid the most. 
@@ -143,7 +148,7 @@ plt.show()
 ```
 
 ### Results
-
+![Salary Distribution](https://github.com/jsaini03/Python_Project/blob/5757cf1397931c2727fd327776f31a09edc757f5/salary_analysis.png)
 
 
 
